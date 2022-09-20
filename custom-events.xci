@@ -1,0 +1,15 @@
+mode=pan
+type=key
+data=APP4
+event=NearestMapItems
+event=MarkLocation
+event=Mode default
+label=GoTo\nMarker
+location=4
+
+# "W" start in top left
+mode=default
+type=gesture
+data=DUDU
+event=Mode default
+event=eventUploadIGCFile
